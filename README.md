@@ -1,6 +1,6 @@
 # Bash Cheatsheet
 
-## [Disk](https://github.com/percyfoxley/ps-cheatsheet/blob/main/Disk.md)
+## [LVM](https://github.com/percyfoxley/ps-cheatsheet/blob/main/LVM.md)
   - Disk partition
   - Physical Volume
   - Volume Group
