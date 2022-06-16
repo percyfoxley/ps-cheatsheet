@@ -214,7 +214,7 @@ sdd               8:48   0   10G  0 disk
 
 Configure **`/etc/fstab`** 
 
-**`</path/to/lv>                         <file system>    defaults        0 0`**
+**`</path/to/lv> </path/to/directory>                        <file system>    defaults        0 0`**
 ```
 vi /etc/fstab 
 	/dev/mapper/centos-root /                       xfs     defaults        0 0
