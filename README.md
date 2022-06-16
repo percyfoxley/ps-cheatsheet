@@ -1,4 +1,4 @@
-# Bash Cheatsheet
+# Linux Bash Cheatsheet
 
 ## [LVM](https://github.com/percyfoxley/ps-cheatsheet/blob/main/LVM.md)
   - Disk partition
